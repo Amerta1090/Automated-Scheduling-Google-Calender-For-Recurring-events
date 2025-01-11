@@ -1,10 +1,7 @@
 function createRecurringPiketSchedule() {
   // Email penghuni kontrakan
   const penghuni = [
-    { email: "khoirul@gmail.com", name: "Khoirul" },
-    { email: "agunghystam@gmail.com", name: "Agung" },
-    { email: "abdulmajidr708@gmail.com", name: "Majid" },
-    { email: "aanvinanta5@gmail.com", name: "Aan" }
+    xxx.gmail.com
   ];
 
   // Urutan piket
